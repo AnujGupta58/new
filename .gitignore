@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pqr.txt
 new1.txt
 xyz.txt
+=======
+*.iml
+.idea
+out
+>>>>>>> 1b761c516b8d15bf57aca811ef9333f28a08b340
